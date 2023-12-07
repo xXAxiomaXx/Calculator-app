@@ -292,6 +292,7 @@ input#three {
   width: 90%;
   height: 90%;
   margin: 0 auto;
+  padding: 5px;
 }
 
 .flex {
